@@ -1,5 +1,5 @@
 {
-   "name": "shadow-cjs-template",
+   "name": "shadow-cljs-template",
    "version": "1.0.0",
    "description": "A simple template for shadow-cljs experiments",
    "main": "index.js",
@@ -11,15 +11,15 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/pavel-popov/shadow-cjs-template.git"
+      "url": "git+https://github.com/pavel-popov/shadow-cljs-template.git"
    },
    "keywords": [],
    "author": "",
    "license": "ISC",
    "bugs": {
-      "url": "https://github.com/pavel-popov/shadow-cjs-template/issues"
+      "url": "https://github.com/pavel-popov/shadow-cljs-template/issues"
    },
-   "homepage": "https://github.com/pavel-popov/shadow-cjs-template#readme",
+   "homepage": "https://github.com/pavel-popov/shadow-cljs-template#readme",
    "devDependencies": {
       "onchange": "^7.1.0",
       "tailwindcss": "^2.0.3",
