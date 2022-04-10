@@ -7,7 +7,8 @@ A simple template for my shadow-cljs experiments.
 npm install
 #+end_src
 
-* Run REPL manually
+* Run
+** Run REPL manually
 Run Shadow CLJS dev server (and REPL):
 #+begin_src sh
 npm run watch
@@ -18,7 +19,7 @@ In another terminal, recompile Tailwind CSS if it changes:
 npm run watch:css
 #+end_src
 
-* Run CIDER
+** Run via CIDER
 In Emacs run =cider-jack-in-cljs=, then select =shadow= and =:app=.
 
 * Deployment
